@@ -9,7 +9,7 @@
     "id": 2,
     "name": "Portable Power 20000mAh",
     "description": "Compact and powerful with dual USB ports, fast charging, and LED battery indicator.",
-    "price": 200
+    "price": 20000
   },
   {
     "id": 3,
@@ -28,11 +28,5 @@
     "name": "20000mAh",
     "description": "Compact bank with dual USB ports and LED battery indicator.",
     "price": 250
-  },
-  {
-    "id": 1782308636691,
-    "name": "Samsung",
-    "description": "Goribs be flexing.",
-    "price": 10000
   }
 ]
