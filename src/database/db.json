@@ -4,5 +4,29 @@
     "name": "Portable Power Bank 20000mAh",
     "description": "Compact and powerful power bank with dual USB ports, fast charging, and LED battery indicator.",
     "price": 2500
+  },
+  {
+    "id": 2,
+    "name": "Portable Power 20000mAh",
+    "description": "Compact and powerful with dual USB ports, fast charging, and LED battery indicator.",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Portable Power Bank",
+    "description": "Compact bank with dual USB ports, and LED battery indicator.",
+    "price": 500
+  },
+  {
+    "id": 4,
+    "name": "Power Bank 20000mAh",
+    "description": "Compact and powerful power bank with fast charging, and LED battery indicator.",
+    "price": 25000
+  },
+  {
+    "id": 5,
+    "name": "20000mAh",
+    "description": "Compact bank with dual USB ports and LED battery indicator.",
+    "price": 250
   }
 ]
